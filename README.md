@@ -6,8 +6,9 @@ This is a curated list of free C# Excel Libraries, which facilitate reading/writ
 
 1. [Microsoft.Office.Interop.Excel](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interop/how-to-access-office-onterop-objects)
 
-3. [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) 
+2. [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) 
 2.a ExcelDataReader Extension Package
 
-4. [NPOI](https://github.com/dotnetcore/NPOI)
-3.a [NPOI Extension package: ExcelMappe](https://github.com/hughbe/excel-mapper)r
+3. [NPOI](https://github.com/dotnetcore/NPOI)
+
+4. [NPOI Extension package: ExcelMappe](https://github.com/hughbe/excel-mapper)r
