@@ -11,4 +11,6 @@ This is a curated list of free C# Excel Libraries, which facilitate reading/writ
 
 3. [NPOI](https://github.com/dotnetcore/NPOI)
 
-4. [NPOI Extension package: ExcelMappe](https://github.com/hughbe/excel-mapper)r
+4. [ExcelMapper](https://github.com/hughbe/excel-mapper)
+
+5. [EPPlus] (https://github.com/JanKallman/EPPlus)
