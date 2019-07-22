@@ -13,4 +13,4 @@ This is a curated list of free C# Excel Libraries, which facilitate reading/writ
 
 4. [ExcelMapper](https://github.com/hughbe/excel-mapper)
 
-5. [EPPlus] (https://github.com/JanKallman/EPPlus)
+5. [EPPlus](https://github.com/JanKallman/EPPlus)
